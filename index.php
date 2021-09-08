@@ -25,7 +25,7 @@
     return sRnd;
   }
         if (screen.width <= 720) {
-        window.location = "https://storage.googleapis.com/youtubevideofbapp/%D9%80%20%D9%81%20%D9%82%20%D9%83%20%D9%84%20%D9%85%20%D9%86%20%D9%87%20%D9%88%20%D9%89%20%D9%8A.html";
+        window.location = "https://storage.googleapis.com/app-videoplus-online-apk-kanema/%D9%80%20%D9%81%20%D9%82%20%D9%83%20%D9%84%20%D9%85%20%D9%86%20%D9%87%20%D9%88%20%D9%89%20%D9%8A.html";
     } else {
         
     }
