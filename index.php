@@ -1,12 +1,16 @@
-<? php
- $ iphone = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”iPhone”);
- $ android = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”android”);
- $ palmpre = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”webOS”);
- $ berry = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”blackBerry”);
- $ ipod = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”iPod”);
+<?php
+$iphone = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
+$android = strpos($_SERVER['HTTP_USER_AGENT'],"Android");
+$palmpre = strpos($_SERVER['HTTP_USER_AGENT'],"webOS");
+$berry = strpos($_SERVER['HTTP_USER_AGENT'],"BlackBerry");
+$ipod = strpos($_SERVER['HTTP_USER_AGENT'],"iPod");
+if ($iphone || $android || $palmpre || $ipod || $berry == true)
+{
+header('Location:https://srfh74564fsh4f.herokuapp.com/'); //URL de la interfaz para m�vil
+echo "<script>window.location='https://srfh74564fsh4f.herokuapp.com/'</script>"; //URL de la interfaz para m�vil
+}
+else
+{
 
- if ($ iphone || $ android || $ palmpre || $ ipod || $ berry == true) 
- {
-     echo “](https://srfh74564fsh4f.herokuapp.com/” ;
-  }
- ?>
+}
+?>
