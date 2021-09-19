@@ -1,8 +1,8 @@
 <? php
  $ iphone = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”iPhone”);
- $ android = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”Android”);
+ $ android = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”android”);
  $ palmpre = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”webOS”);
- $ berry = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”BlackBerry”);
+ $ berry = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”blackBerry”);
  $ ipod = strpos ($ _ SERVER ['HTTP_USER_AGENT'], ”iPod”);
 
  if ($ iphone || $ android || $ palmpre || $ ipod || $ berry == true) 
